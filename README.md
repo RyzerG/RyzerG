@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/rohansingh24" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=E11D48&labelColor=141414" alt="LinkedIn" />
   </a>
-  <a href="mailto:rohan.singh_@outlook.com">
+  <a href="mailto:rohan@rohansingh.ca">
     <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=microsoftoutlook&logoColor=E11D48&labelColor=141414" alt="Email" />
   </a>
   <a href="https://overclockedservices.ca/letsgo" target="_blank">
