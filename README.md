@@ -13,10 +13,10 @@
 <!-- Social & Contact Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/rohansingh24" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=E11D48&labelColor=141414" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0UxMUQ0OCI+PHBhdGggZD0iTTE5IDNoLTE0Yy0xLjEgMC0yIC45LTIgMnYxNGMwIDEuMS45IDIgMiAyaDE0YzEuMSAwIDItLjkgMi0ydi0xNGMwLTEuMS0uOS0yLTItMnptLTExIDE0aC0zdi05aDN2OXptLTEuNS0xMC4zYy0xIDAtMS44LS44LTEuOC0xLjhTMDUuNSA1IDYuNSA1czEuOC44IDEuOCAxLjhTMzcuNSA2LjcgNi41IDYuN3ptMTIuNSAxMC4zaC0zdi00LjdjMC0xLjEtLjQtMS45LTEuNS0xLjktLjggMC0xLjMuNi0xLjUgMS4xLS4xLjItLjEuNS0uMS44djQuN2gtM3YtOWgyLjl2MS4yYy40LS42IDEuMS0xLjQgMi43LTEuNCAyIDAgMy41IDEuMyAzLjUgNC4xdjUuMXoiLz48L3N2Zz4=&labelColor=141414" alt="LinkedIn" />
   </a>
   <a href="mailto:rohan@rohansingh.ca">
-    <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=microsoftoutlook&logoColor=E11D48&labelColor=141414" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-141414?style=for-the-badge&logo=gmail&logoColor=E11D48" alt="Email" />
   </a>
   <a href="https://overclockedservices.ca/" target="_blank">
     <img src="https://img.shields.io/badge/OverClocked_Services-E11D48?style=for-the-badge" alt="OverClocked Services" />
