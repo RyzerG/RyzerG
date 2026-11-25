@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Crimson & Obsidian Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:7f0000,100:e11d48&height=210&section=header&text=Rohan%20Singh&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=CS%20Grad%20%7C%20Systems%20Builder%20%7C%20Founder%20%40%20OverClocked%20Services&descAlignY=62&descSize=17&animation=fadeIn" width="100%" alt="Rohan Singh Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:7f0000,100:e11d48&height=210&section=header&text=Rohan%20Singh&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=CS%20Student%20%7C%20Systems%20Builder%20%7C%20Founder%20%40%20OverClocked%20Services&descAlignY=62&descSize=17&animation=fadeIn" width="100%" alt="Rohan Singh Header" />
 
 <!-- Dynamic Typing Subheader -->
 <a href="https://github.com/RyzerG">
@@ -31,7 +31,7 @@
 
 ## `>_` About Me
 
-I'm **Rohan Singh**, a **University of Toronto** Honours Bachelor of Science graduate (**Computer Science, Psychology, and Logic** with a **Certificate in Computational Linguistics**) based in the Greater Toronto Area.
+I'm **Rohan Singh**, a **University of Toronto** Honours Bachelor of Science student (**Computer Science, Psychology, and Logic** with a **Certificate in Computational Linguistics**) based in the Greater Toronto Area.
 
 I like building software that actually gets used—from **ultra-low-overhead macOS kernel utilities** and **native Android apps** to **self-hosted local LLM agents**, **real-time telemetry dashboards**, and **enterprise IT infrastructure**. Outside of code, I run **OverClocked Services** and bring hands-on leadership and technical operations experience from **Staples Canada**, **TELUS**, and **Apple**.
 
@@ -40,10 +40,10 @@ rohan:
   role:        "Founder @ OverClocked Services | Wireless Supervisor @ Staples Canada"
   past:        ["Apple (Product Specialist)", "TELUS (Product Care Specialist)"]
   education:   "Honours B.Sc. — University of Toronto (CS, Psychology, Logic)"
-  certificate: "Computational Linguistics"
+  certificate: "Computational Linguistics @ UofT"
   focus:       ["Native Systems (Swift / Android)", "Local AI & Automation (Ollama)", "Full-Stack Telemetry", "IT Infrastructure & Cloud"]
   languages:   ["English (Native)", "French (Professional Working)"]
-  certs:       ["IBM Introduction to Cloud", "IBM Cybersecurity Fundamentals", "IBM Python for Data Science & AI"]
+  certs:       ["IBM Introduction to Cloud", "IBM Cybersecurity Fundamentals", "IBM Python for Data Science & AI", "Google AI"]
 ```
 
 ---
@@ -108,7 +108,7 @@ rohan:
         All-in-one modular Discord server management bot built in Python. Unifies moderation, verification, ticketing workflows, timed private channels, voice/music streaming, and custom community commands.
       </p>
       <p>
-        📂 <a href="https://github.com/RyzerG?tab=repositories"><b>Browse Public Repos</b></a>
+        📂 <a href="https://github.com/RyzerG?tab=repositories"><b>Browse Public Repo</b></a>
       </p>
     </td>
   </tr>
