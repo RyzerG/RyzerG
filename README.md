@@ -18,8 +18,8 @@
   <a href="mailto:rohan@rohansingh.ca">
     <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=microsoftoutlook&logoColor=E11D48&labelColor=141414" alt="Email" />
   </a>
-  <a href="https://overclockedservices.ca/letsgo" target="_blank">
-    <img src="https://img.shields.io/badge/OverClocked_Services-E11D48?style=for-the-badge&logo=cloudflare&logoColor=FFFFFF" alt="OverClocked Services" />
+  <a href="https://overclockedservices.ca/" target="_blank">
+    <img src="https://img.shields.io/badge/OverClocked_Services-E11D48?style=for-the-badge&logoColor=FFFFFF" alt="OverClocked Services" />
   </a>
   <img src="https://img.shields.io/badge/Location-Toronto,_ON-141414?style=for-the-badge&logo=googlemaps&logoColor=E11D48" alt="Location" />
   <img src="https://komarev.com/ghpvc/?username=RyzerG&label=PROFILE+VIEWS&color=e11d48&style=for-the-badge" alt="Profile Views" />
