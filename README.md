@@ -5,7 +5,7 @@
 
 <!-- Dynamic Typing Subheader -->
 <a href="https://github.com/RyzerG">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=E11D48&center=true&vCenter=true&width=720&lines=Honours+B.Sc.+in+Computer+Science+%40+University+of+Toronto;Building+Native+macOS+%26+Android+Apps%2C+Local+AI+%26+Telemetry;Founder+%40+OverClocked+Services+%7C+Wireless+Supervisor+%40+Staples;Bridging+Low-Level+Systems%2C+Applied+ML+%26+Real-World+Operations" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=E11D48&center=true&vCenter=true&width=720&lines=Honours+B.Sc.+in+Computer+Science+%40+University+of+Toronto;Building+Native+macOS+%26+Android+Apps%2C+Local+AI+%26+Telemetry;Founder+%40+OverClocked+Services+%7C+Supervisor+%40+Staples;Bridging+Systems%2C+Applied+ML+%26+Real-World+Operations" alt="Typing SVG" />
 </a>
 
 <br/>
