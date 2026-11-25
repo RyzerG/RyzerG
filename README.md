@@ -21,7 +21,6 @@
   <a href="https://overclockedservices.ca/" target="_blank">
     <img src="https://img.shields.io/badge/OverClocked_Services-E11D48?style=for-the-badge" alt="OverClocked Services" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Toronto,_ON-141414?style=for-the-badge&logo=googlemaps&logoColor=E11D48" alt="Location" />
   <img src="https://komarev.com/ghpvc/?username=RyzerG&label=PROFILE+VIEWS&color=e11d48&style=for-the-badge" alt="Profile Views" />
 </p>
 
